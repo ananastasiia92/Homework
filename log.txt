@@ -1,0 +1,8 @@
+2024-03-28 01:17:08 Patterns.Homework.Model.ComplexNumber@29453f44 + Patterns.Homework.Model.ComplexNumber@5cad8086 = Patterns.Homework.Model.ComplexNumber@6e0be858
+Выберите действие
+1. Операции с комплексными числами
+2. Выход
+2024-03-28 01:18:19 ComplexNumber [real=3.0, imaginary=0.0] + ComplexNumber [real=3.0, imaginary=0.0] = ComplexNumber [real=6.0, imaginary=0.0]
+Выберите действие
+1. Операции с комплексными числами
+2. Выход
